@@ -1,6 +1,6 @@
 <h2> Description: </h2>
 
-<span> Discord bot in python to get info of minecraft server API and show status in chat </span>
+<span> Simple discord bot in python to get info of minecraft server API and show status in chat </span>
 
 <h2> Installation: </h2>
 
